@@ -10,7 +10,7 @@ user-friendly web applications using HTML, CSS, JavaScript, React,  Node.js , Ex
              <button className='mt-5 md:md-10 text-white bg-gray-700 border-2 border-purple-500   py-2 px-3 text-sm md:text-large md:py-2 md:px-4  
             transition-all hover:text-base hover:text-white hover:font-bold duration-300 hover:scale-110 hover:border-none font-semibold rounded-3xl  hover:bg-purple-700'>Contact Me</button>
         </div>
-        <div><img className='w-[80%] peer-autofill: m-auto rounded-2xl sm:w-1/3' src={Image} alt="" /></div>
+        <div><img className='w-[100%] peer-autofill: m-auto rounded-2xl sm:w-1/3' src={Image} alt="" /></div>
         </div>
   )
 }
