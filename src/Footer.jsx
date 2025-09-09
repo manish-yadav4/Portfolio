@@ -10,8 +10,8 @@ const Footer = () => {
         </div>
         <ul className='text-sm md:text-xl'>
             <li className='flex gap-1 items-center'>manishy8572@gmail.com</li>
-            <li>linkedin</li>
-            <li>manish-yadav-4</li>
+            
+            <li>manish-yadav4</li>
         </ul>
     </div>
   )
